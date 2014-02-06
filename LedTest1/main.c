@@ -77,6 +77,8 @@ void main(void) {
 		P4OUT |= 0x08;
 		P4OUT |= 0x04;
 
+		//commit exam
+
 
 
 		for (i = 0; i < 50000; i++)
